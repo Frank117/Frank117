@@ -80,11 +80,10 @@ La implementación de geolocalización en tiempo real requirió la integración 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Frank117&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2c3e50&icon_color=3498db&text_color=34495e)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Frank117&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2c3e50&text_color=34495e)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=Frank117&theme=default&hide_border=true&background=ffffff&ring=3498db&fire=3498db&currStreakLabel=2c3e50)
 
 </div>
 
